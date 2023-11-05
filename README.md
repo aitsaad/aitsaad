@@ -2,7 +2,7 @@
 - 👀 I’m interested in fuul stack
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on Whatever the task is, I'm going to learn how to do it
-- 📫 How to reach me https://www.linkedin.com/in/saad-aittaleb-a9303a264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me https://www.linkedin.com/in/saad-aittaleb-a9303a264
 
 <!---
 aitsaad/aitsaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
