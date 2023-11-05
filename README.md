@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aitsaad
-- 👀 I’m interested in development
+- 👀 I’m interested in fuul stack
 - 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on however the work is ; i will earn how to
+- 💞️ I’m looking to collaborate on Whatever the task is, I'm going to learn how to do it
 - 📫 How to reach me aittaleb237@gmail.com
 
 <!---
